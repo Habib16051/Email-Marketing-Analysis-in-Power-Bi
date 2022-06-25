@@ -14,4 +14,5 @@ Deliverybility Rate = (Delivered Emails/Total Sents)*100
 Delivery Rate =( (Sents Emails - Bounce Emails)/Emails Sents ) * 100
 
 
-![Email Marketing Analysis](https://user-images.githubusercontent.com/39822204/175764375-936c2c89-0237-42b0-99a8-7d2b7bc17ba3.PNG)
+
+![Email Marketing Analysis](https://user-images.githubusercontent.com/39822204/175764427-03ea1aa2-13f1-4e70-9d00-2bcaeb2c64e9.PNG)
